@@ -5,10 +5,10 @@ In this problem, I attempted classify the activities of humans based on time ser
 ### Dataset description - 
 AReM data - The dataset contains 7 folders that represent seven types of activities. Each file containis 6 time series collected from activities of the same person.
 
-### Solution Overview - 
+### Solution overview - 
 Section 1 - Binary classification (Classification of bending from other activities)
-Algorithms used - Logistic Regression and L1 penalized Logistic Regression
-In the former, variable selection was done using Recursive feature elimination
+Algorithms used - Logistic Regression and L1 penalized Logistic Regression <br>
+In the former, variable selection was done using Recursive feature elimination.
 
 Section 2 - Multi-class classification 
 Algorithms used - L1 penalized multinomial Regression and Naive Bayes' classifier.
